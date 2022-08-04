@@ -1,8 +1,8 @@
 
-Adapted for this page, changes and imgs copyright by Kainberger Michael.
+Adapted for this page, imgs copyright by Kainberger Michael.
 Please report bugs, glitches etc asap :)
 
-Template originially:
+Template ReadMe originial + license:
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
